@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MercuryUI\MercuryUI\bin\Debug\MercuryUI.exe.config
+C:\Users\User\source\repos\MercuryUI\MercuryUI\bin\Debug\MercuryUI.exe
+C:\Users\User\source\repos\MercuryUI\MercuryUI\bin\Debug\MercuryUI.pdb
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.Form1.resources
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.Properties.Resources.resources
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.exe
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.pdb
+C:\Users\User\source\repos\MercuryUI\MercuryUI\bin\Debug\Mercury.dll
+C:\Users\User\source\repos\MercuryUI\MercuryUI\bin\Debug\Mercury.pdb
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.csproj.CopyComplete
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.Manager1.resources
+C:\Users\User\source\repos\MercuryUI\MercuryUI\obj\Debug\MercuryUI.Application2.resources
